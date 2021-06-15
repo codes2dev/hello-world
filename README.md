@@ -1,37 +1,23 @@
-## Hi There How Are You Sinan!
+## Hi There , How Are You Zaif
 
-You can use the [editor on GitHub](https://github.com/codes2dev/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks For Opening My First Github Page Website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I Leared This On Youtube To How To Code A Pages Like Kinda A Website I Could Say
 
-### Markdown
+### Why Did I Learn This
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Idk Why I Just Figured Out Why Not Me Make It Lmao
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```yaml
+Well How Are Ya!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+DM Me On Discord Now Boi!.
 
-### Jekyll Themes
+### Testing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codes2dev/hello-world/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+asfugeiuftghspoIFGIWEUGCPUfdtfg readr am testing it
 
-### Support or Contact
+### Test 3
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+dfuidsgpsdo
